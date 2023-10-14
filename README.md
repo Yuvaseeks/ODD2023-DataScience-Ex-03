@@ -26,9 +26,9 @@ Count the values from the data.
 Do plots like boxplots,countplot,distribution plot,histogram plot.
 
 # Program:
-DEVELOPED BY : AAKASH P
+DEVELOPED BY : YUVASREE
 
-REGISTER NO : 212222110001
+REGISTER NO : 212221040188
 ```
 - Diabetes.csv
 ```Python 
